@@ -1,4 +1,4 @@
-# LIFT-XAI: Explaining Conditional Average Treatment Effect (CATE)
+# LIFT - XAI: Leveraging Important Features in Treatment Effects to Inform Clinical Decision-Making via Explainable AI
 
 This repository accompanies **[LIFT-XAI](https://www.medrxiv.org/content/10.1101/2024.09.04.24312866v3)** — a framework for **explaining Conditional Average Treatment Effect (CATE) models** using attribution and interpretability techniques.
 
@@ -78,7 +78,7 @@ run_experiment_clinical_data.py
 if you find this project useful in your research, please consider citing our paper
 ```
 @article{liftxai2024,
-  title   = {LIFT-XAI: Explaining Conditional Average Treatment Effect Models with Attribution Techniques},
+  title   = {LIFT - XAI: Leveraging Important Features in Treatment Effects to Inform Clinical Decision-Making via Explainable AI},
   year    = {2024},
   note    = {medRxiv preprint},
   url     = {https://www.medrxiv.org/content/10.1101/2024.09.04.24312866v2}
