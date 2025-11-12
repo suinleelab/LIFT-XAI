@@ -1,6 +1,6 @@
 # LIFT-XAI: Explaining Conditional Average Treatment Effect (CATE)
 
-This repository accompanies **[LIFT-XAI](https://www.medrxiv.org/content/10.1101/2024.09.04.24312866v2)** — a framework for **explaining Conditional Average Treatment Effect (CATE) models** using attribution and interpretability techniques.
+This repository accompanies **[LIFT-XAI](https://www.medrxiv.org/content/10.1101/2024.09.04.24312866v3)** — a framework for **explaining Conditional Average Treatment Effect (CATE) models** using attribution and interpretability techniques.
 
 ## 1. System Requirements
 
