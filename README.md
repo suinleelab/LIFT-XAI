@@ -1,7 +1,6 @@
-# LIFT - XAI: Leveraging Important Features in Treatment Effects to Inform Clinical Decision-Making via Explainable AI
+# [LIFT - XAI: Leveraging Important Features in Treatment Effects to Inform Clinical Decision-Making via Explainable AI](https://www.medrxiv.org/content/10.1101/2024.09.04.24312866v3)
 
-This repository accompanies **[LIFT-XAI](https://www.medrxiv.org/content/10.1101/2024.09.04.24312866v3)** — a framework that delivers rigorous explanations at both the global and individual levels by integrating
-ensemble CATE modeling with Shapley value. 
+This repository is for **LIFT-XAI** — a framework that delivers rigorous explanations at both the global and individual levels by integrating ensemble CATE modeling with Shapley value. 
 
 ## 1. System Requirements
 
